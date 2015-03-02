@@ -1,2 +1,0 @@
-to create a file use
-subl unix_notes.txt

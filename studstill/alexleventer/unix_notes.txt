@@ -1,2 +1,0 @@
-mkdir creates a new directory
-ls lists files in the current directly
